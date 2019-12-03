@@ -1,4 +1,4 @@
-# ilhan - JS 3
+## ilhan - JS 3
 ### A. Dom-Manipulation
 [1. change-text](./dom-manipulation/exercises/1-change-text.html)<br>
 [2. change-link](./dom-manipulation/exercises/2-chage-link.html)<br>
