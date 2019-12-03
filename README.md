@@ -1,7 +1,7 @@
 # ilhan - JS 3
 
 ## Practice Problems
-### Dom-Manipulation
+### A. Dom-Manipulation
 [1. change-text](./dom-manipulation/exercises/1-change-text.html)
 
 <br>
