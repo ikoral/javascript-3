@@ -1,4 +1,8 @@
-# JS 3
+# ilhan - JS 3
+
+## Practice Problems
+### Dom-Manipulation
+[1. change-text](./dom-manipulation/exercises/1-change-text.html)
 
 this module is a bit different (again) from the last.
 
