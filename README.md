@@ -4,6 +4,9 @@
 ### Dom-Manipulation
 [1. change-text](./dom-manipulation/exercises/1-change-text.html)
 
+<br>
+<br>
+
 this module is a bit different (again) from the last.
 
 ## Week Projects
