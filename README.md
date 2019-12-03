@@ -2,13 +2,13 @@
 
 ## Practice Problems
 ### A. Dom-Manipulation
-[1. change-text](./dom-manipulation/exercises/1-change-text.html)
-[2. change-link](./dom-manipulation/exercises/2-chage-link.html)
-[3. update-list](./dom-manipulation/exercises/3-update-list.html)
-[4. add-a-link](./dom-manipulation/exercises/4-add-a-link.html)
-[5. add-a-header](./dom-manipulation/exercises/5-add-a-header.html)
-[6. fix-the-list](./dom-manipulation/exercises/6-fix-the-list.html)
-[7. start-from-nothing](./dom-manipulation/exercises/7-start-from-nothing.html)
+[1. change-text](./dom-manipulation/exercises/1-change-text.html)<br>
+[2. change-link](./dom-manipulation/exercises/2-chage-link.html)<br>
+[3. update-list](./dom-manipulation/exercises/3-update-list.html)<br>
+[4. add-a-link](./dom-manipulation/exercises/4-add-a-link.html)<br>
+[5. add-a-header](./dom-manipulation/exercises/5-add-a-header.html)<br>
+[6. fix-the-list](./dom-manipulation/exercises/6-fix-the-list.html)<br>
+[7. start-from-nothing](./dom-manipulation/exercises/7-start-from-nothing.html)<br>
 <br>
 <br>
 
