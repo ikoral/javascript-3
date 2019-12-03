@@ -42,6 +42,14 @@
 
       <script id='DOM manipulation script'>
        // write me! (... without using cloneNode, that's kind of cheating)
+       const elaReplicateMe = document.getElementById('replicate-me').children[1];
+       const divModified = document.getElementById('modified');
+       const elaModified = document.createElement('a');
+       elaModified.href = elaReplicateMe.href;
+       elaModified.innerHTML = elaReplicateMe.innerHTML;
+       elaModified.target = elaReplicateMe.target;
+       divModified.appendChild(elaModified);
+
       </script>
 
     </div>

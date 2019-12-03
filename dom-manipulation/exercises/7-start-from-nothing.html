@@ -41,10 +41,20 @@
         </ul>
       </div>
 
-      <div id='modified'></div>
+      <div id='modified'>
 
+      </div>
+      
       <script id='DOM manipulation script'>
+        debugger;
         // write me! (... without using cloneNode, that's kind of cheating)
+        const divModified = document.getElementById('modified');
+        const divReplicated = document.getElementById('replicate-me');
+        for (let i = 0; i < divReplicated.children.length; i++) {
+          let newEl = divReplicated.children[i].cloneNode(true);
+          divModified.appendChild(newEl);
+        }
+
       </script>
 
     </div>
